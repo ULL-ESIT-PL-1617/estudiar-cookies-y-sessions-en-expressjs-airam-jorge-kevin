@@ -1,6 +1,8 @@
-# **Rutas en ExpressJS**
+# **Cookies**
 
-> *Elaboracion y estudio de un libro sobre las rutas en expressJS*
+> *Estudio sobre las cookies y las sessions en ExpressJS. Explicando e ilustrando con códigos de ejemplo el uso de las distintos conceptos y tecnologías.+
+
+*
 
 ### Repositorio de la organización:  
 
