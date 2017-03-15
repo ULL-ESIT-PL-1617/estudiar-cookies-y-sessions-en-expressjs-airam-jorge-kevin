@@ -15,7 +15,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ULL-ESIT-PL-1617/estudiar-las-rutas-en-expressjs-airam-jorge",
-    "gitbookurl": "https://git.gitbook.com/airamnavas/cookies.git"
+    "gitbookUrl": "https://git.gitbook.com/airamnavas/cookies.git"
   },
   "keywords": [
     "gitbook",
