@@ -16,3 +16,4 @@ _book
 *.pdf
 
 docs/.git/
+npm-debug.log
