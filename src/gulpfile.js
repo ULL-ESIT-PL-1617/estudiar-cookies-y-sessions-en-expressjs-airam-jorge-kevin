@@ -10,3 +10,7 @@ gulp.task('ejemplo6', shell.task(['node ./responses.js']));
 gulp.task('ejemplo7', shell.task(['node ./module.js']));
 gulp.task('ejemplo8', shell.task(['node ./middleware.js']));
 gulp.task('ejemplo9', shell.task(['node ./routerAPI.js']));
+gulp.task('ejemplo10', shell.task(['node ./cookies-inicial.js']));
+gulp.task('ejemplo11', shell.task(['node ./cookies-formulario.js']));
+gulp.task('ejemplo10', shell.task(['node ./auth.js']));
+gulp.task('ejemplo12', shell.task(['node ./coockiesNoExpress.js']));
