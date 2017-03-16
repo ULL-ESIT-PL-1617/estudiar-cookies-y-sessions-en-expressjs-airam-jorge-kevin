@@ -22,7 +22,7 @@
     "express",
     "routes"
   ],
-  "appPort": 8081,
+  "appPort": 8082,
   "author": "",
   "license": "ISC",
   "dependencies": {
